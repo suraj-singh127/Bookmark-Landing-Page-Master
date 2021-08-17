@@ -464,6 +464,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 1.5px;
     flex-wrap: wrap;
+    list-style:none;
 }
 
 .socialIcons svg{
