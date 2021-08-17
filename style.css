@@ -32,6 +32,7 @@ body{
 
 .listItem{
     margin: 0rem 1rem;
+    list-style:none;
 }
 
 .listItem:hover{
@@ -229,7 +230,17 @@ body{
     width: 60rem;
 }
 
-#moreInfo{
+#moreInfoBookmarking{
+    width: 6rem;
+    cursor: pointer;
+}
+
+#moreInfoSearching{
+    width: 6rem;
+    cursor: pointer;
+}
+
+#moreInfoSharing{
     width: 6rem;
     cursor: pointer;
 }
